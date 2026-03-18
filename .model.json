@@ -1,4 +1,5 @@
 {
+  "cs": "CS",
   "configuration": {
     "http://dataspecer.com/resources/local/git-remote-configuration": {
       "publicationBranch": "publication-branch",
